@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/berke erdem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berke erdem" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,6 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkeerdem1&show_icons=true&locale=en" alt="berkeerdem1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkeerdem1&" alt="berkeerdem1" /></p>
-
-
-![snake gif](https://github.com/berkeerdem1/berkeerdem1/blob/output/github-contribution-grid-snake.gif)
